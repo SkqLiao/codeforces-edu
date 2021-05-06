@@ -1,2 +1,1 @@
-# codeforces-edu
-Codeforces ITMO Academy: pilot course
+# Codeforces ITMO Academy: pilot course
