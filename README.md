@@ -25,14 +25,12 @@
     - [x] [I. Segment with the Required Subset](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/I)
   
 - [ ] Disjoint Sets Union: [Solution](https://skqliao.github.io/2021/05/01/ITMO-Disjoint-Sets-Union/)
-
   - [x] [Step 1](https://codeforces.com/edu/course/2/lesson/7/1/practice)
     - [x] [A. Disjoint Sets Union](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/A)
     - [x] [B. Disjoint Sets Union 2](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/B)
     - [x] [C. Experience](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C)
     - [x] [D. Cutting a graph](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/D)
     - [x] [E. Monkeys](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/E)
-
   - [ ] [Step 2](https://codeforces.com/edu/course/2/lesson/7/2/practice)
     - [x] [A. People are leaving](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/A)
     - [x] [B. Parking](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/B)
