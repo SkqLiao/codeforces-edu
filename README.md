@@ -34,4 +34,6 @@
   - [ ] [Step 2](https://codeforces.com/edu/course/2/lesson/7/2/practice)
     - [x] [A. People are leaving](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/A)
     - [x] [B. Parking](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/B)
-
+    - [x] [C. Restructuring Company](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/C)
+    - [x] [D. Bosses](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/D)
+    - [x] [E. Spanning Tree](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/E)
