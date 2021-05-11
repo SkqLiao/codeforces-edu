@@ -31,7 +31,7 @@
     - [x] [C - Experience](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C)
     - [x] [D - Cutting a graph](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/D)
     - [x] [E - Monkeys](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/E)
-  - [ ] [Step 2](https://codeforces.com/edu/course/2/lesson/7/2/practice)
+  - [x] [Step 2](https://codeforces.com/edu/course/2/lesson/7/2/practice)
     - [x] [A - People are leaving](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/A)
     - [x] [B - Parking](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/B)
     - [x] [C - Restructuring Company](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/C)
@@ -40,4 +40,7 @@
     - [x] [F - Dense spanning tree](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/F)
     - [x] [G - No refuel](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/G)
     - [x] [H - Oil business](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/H)
+    - [x] [I - Bipartite Graph](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/I)
+    - [x] [J - First Non-Bipartite Edge](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/J)
+  - [ ] [Step 3](https://codeforces.com/edu/course/2/lesson/7/3/practice)
 
