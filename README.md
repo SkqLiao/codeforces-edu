@@ -12,7 +12,7 @@
     - [x] [D - Number of Segments with Big Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)
     - [x] [E - Segments with Small Set](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/E)
     - [x] [F - Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
-    - [x] [G - Coprime Segment](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G)
+    - [x] **[G - Coprime Segment](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G)**
   - [x] [Step 3](https://codeforces.com/edu/course/2/lesson/9/3/practice)
     - [x] [A - Looped Playlist](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/A)
     - [x] [B - Total Length](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/B)
@@ -22,7 +22,7 @@
     - [x] [F - Card Substrings](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/F)
     - [x] [G - Not Very Rude Substring](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/G)
     - [x] [H - A-B Knapsack](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/H)
-    - [x] [I - Segment with the Required Subset](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/I)
+    - [x] **[I - Segment with the Required Subset](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/I)**
   
 - [ ] Disjoint Sets Union: [Solution](https://skqliao.github.io/2021/05/01/ITMO-Disjoint-Sets-Union/)
   - [x] [Step 1](https://codeforces.com/edu/course/2/lesson/7/1/practice)
@@ -43,4 +43,6 @@
     - [x] [I - Bipartite Graph](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/I)
     - [x] [J - First Non-Bipartite Edge](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/J)
   - [ ] [Step 3](https://codeforces.com/edu/course/2/lesson/7/3/practice)
+    - [x] **[A - DSU with rollback](https://codeforces.com/edu/course/2/lesson/7/3/practice/contest/289392/problem/A)**
+    - [x] **[B - Number of Connected Components on Segments](https://codeforces.com/edu/course/2/lesson/7/3/practice/contest/289392/problem/B)**
 
