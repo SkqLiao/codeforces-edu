@@ -1,4 +1,4 @@
-# Codeforces ITMO Academy: pilot course
+# **Codeforces** ITMO Academy: pilot course
 
 - [x] Two Pointers Method: [Solution](https://skqliao.github.io/2021/04/25/ITMO-Two-Pointers-Method/)
   - [x] [Step 1](https://codeforces.com/edu/course/2/lesson/9/1/practice)
@@ -24,7 +24,7 @@
     - [x] [H - A-B Knapsack](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/H)
     - [x] **[I - Segment with the Required Subset](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/I)**
   
-- [ ] Disjoint Sets Union: [Solution](https://skqliao.github.io/2021/05/01/ITMO-Disjoint-Sets-Union/)
+- [x] Disjoint Sets Union: [Solution](https://skqliao.github.io/2021/05/01/ITMO-Disjoint-Sets-Union/)
   - [x] [Step 1](https://codeforces.com/edu/course/2/lesson/7/1/practice)
     - [x] [A - Disjoint Sets Union](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/A)
     - [x] [B - Disjoint Sets Union 2](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/B)
@@ -42,7 +42,8 @@
     - [x] [H - Oil business](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/H)
     - [x] [I - Bipartite Graph](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/I)
     - [x] [J - First Non-Bipartite Edge](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/J)
-  - [ ] [Step 3](https://codeforces.com/edu/course/2/lesson/7/3/practice)
+  - [x] [Step 3](https://codeforces.com/edu/course/2/lesson/7/3/practice)
     - [x] **[A - DSU with rollback](https://codeforces.com/edu/course/2/lesson/7/3/practice/contest/289392/problem/A)**
     - [x] **[B - Number of Connected Components on Segments](https://codeforces.com/edu/course/2/lesson/7/3/practice/contest/289392/problem/B)**
+    - [x] **[C - Dynamic Connectivity Offline](https://codeforces.com/edu/course/2/lesson/7/3/practice/contest/289392/problem/C)**
 
